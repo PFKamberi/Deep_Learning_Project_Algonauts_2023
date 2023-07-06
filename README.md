@@ -5,7 +5,7 @@ This project was implemented in the context of the Deep Learning course during o
 ## Implementation Steps:
 
 1. **Data Acquisition:** 
-   - We used the data provided by the Algonauts Project 2023. The data can be accessed using the [Guide_to_access_the_data.ipynb]((https://github.com/PFKamberi/Deep_Learning_Project_Algonauts_2023/blob/main/Guide_to_access_the_data.ipynb)) notebook.
+   - We used the data provided by the Algonauts Project 2023. The data can be accessed using the [Guide_to_access_the_data.ipynb](https://github.com/PFKamberi/Deep_Learning_Project_Algonauts_2023/blob/main/Guide_to_access_the_data.ipynb) notebook.
 
 2. **Transfer Learning and Linearizing Encoding Models:**
    - We utilized transfer learning based on pretrained image models (ResNet50 and VGG16) to create linearizing encoding models. These models are required to solve the problem of mapping images to brain voxel values.
