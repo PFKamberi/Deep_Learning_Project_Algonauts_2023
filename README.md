@@ -22,6 +22,6 @@ This project was implemented in the context of the Deep Learning course during o
    - We provide a demo showcasing the capabilities of the ResNet50-based model. The demo includes both test images and external images.
 
 6. **Requirements:**
-   - The requirements for this project in terms of Python packages can be found in the [requirements.txt]((https://github.com/PFKamberi/Deep_Learning_Project_Algonauts_2023/blob/main/requirements.txt)) file.
+   - The requirements for this project in terms of Python packages can be found in the [requirements.txt](https://github.com/PFKamberi/Deep_Learning_Project_Algonauts_2023/blob/main/requirements.txt) file.
 
 Please refer to the individual notebooks and folders for more detailed information on each step of the implementation.
