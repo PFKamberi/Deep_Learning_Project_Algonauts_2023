@@ -1,6 +1,6 @@
 # Deep Learning Final Project - How the Human Brain Makes Sense of Natural Scenes
 
-This project was implemented in the context of the Deep Learning course during our studies at the MSc of Data Science program of the NCSR Demokritos and the University of the Peloponnese. The project is based on the [Algonauts Project 2023]([link-to-project](http://algonauts.csail.mit.edu/index.html)).
+This project was implemented in the context of the Deep Learning course during our studies at the MSc of Data Science program of the NCSR Demokritos and the University of the Peloponnese. The project is based on the [Algonauts Project 2023](http://algonauts.csail.mit.edu/index.html)).
 
 ## Implementation Steps:
 
